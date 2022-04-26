@@ -1,6 +1,7 @@
-# Projeto de conclusão do módulo 6
+# Projeto módulo 6: Storytelling e Visualização de dados
 
-Projeto de encerramento de módulo do curso Data Analytics, da EdTech Resilia,
+Projeto de encerramento de módulo do curso Data Analytics, da EdTech Resilia.
+
 Facilitadoras: Marisa Silva e Tais Cunha.
 
 
