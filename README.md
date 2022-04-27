@@ -9,14 +9,14 @@ Facilitadoras: Marisa Silva e Tais Cunha.
 
 - [@Derek_Martins](https://github.com/derekmartins)
 - [@Fernanda_Oliveira](https://github.com/FernandaBz)
-- [@Gabriel_Lima] (https://github.com/Gabriellimar)
+- [@Gabriel_Lima](https://github.com/Gabriellimar)
 - [@Luana_Taynara](https://github.com/lu-taynara)
 
 ## Justificativa
 
-**Senado e Câmara Federal são as duas casas que compõem o Congresso Nacional e comandam o Poder Legislativo do país.
+**Senado e Câmara Federal são as duas casas que compõem o Congresso Nacional e comandam o Poder Legislativo do país.**
 
-**Parlamentares
+**Parlamentares**
 
 Senador:
 
@@ -37,7 +37,7 @@ Eleição a cada 4 anos.
 O paraná possui 30 deputados federais
 
 
-**O que faz um deputado federal?
+**O que faz um deputado federal?**
 
 A principal função de um deputado federal é legislar. Ou seja, cabe a ele propor, discutir, aprovar leis, que podem inclusive alterar a Constituição. Além disso, é o deputado federal que aprova ou não as medidas provisórias propostas pelo Presidente da República em exercício.
 Outra função é fiscalizar e controlar o poder executivo. E para isso, existe o Tribunal de Contas da União, que funciona justamente como um órgão fiscalizador.. 
