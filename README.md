@@ -70,4 +70,6 @@ A legislatura 56 vigente que foi analisada no dataset compreende o período de 0
 
 Para o projeto decidimos analisar os projetos de lei apresentados pelos deputados federais do Estado do Paraná na legislatura 56 e relacionar também com do Dataset de gasto de cotas dos parlamentares, utilizado no módulo 5.
 
-VEJA O [RELATÓRIO FINAL](https://app.powerbi.com/view?r=eyJrIjoiOTc5NDRmOTItYzQ0ZS00YTFjLThmN2UtNTE2NzBkNGUyODhiIiwidCI6IjA4YjgwMTE5LWUxMDQtNDc0Yy05ZGE5LWY0N2VlYWNkZTJkMiJ9)
+**Link para o projeto online**
+
+ [RELATÓRIO FINAL](https://app.powerbi.com/view?r=eyJrIjoiOTc5NDRmOTItYzQ0ZS00YTFjLThmN2UtNTE2NzBkNGUyODhiIiwidCI6IjA4YjgwMTE5LWUxMDQtNDc0Yy05ZGE5LWY0N2VlYWNkZTJkMiJ9)
